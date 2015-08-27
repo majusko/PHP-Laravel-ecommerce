@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{$title}}</title>
-</head>
-<body>
-    <h1>Dude ... follow us on github: <a href="{{$github_link}}">{{$github_link}}</a> </h1>
-</body>
-</html>
+
+@extends('app')
+
+@section('content')
+
+<h1>Dude ... follow us on github: <a href="{{$github_link}}">{{$title}}</a> </h1>

@@ -5,8 +5,8 @@ namespace App\Http\Controllers;
 class PagesController extends Controller
 {
 
-    const TITLE = "PHP-Laravel-ecommerce";
-    const GITHUB_LINK = "https://github.com/majusko/PHP-Laravel-ecommerce";
+    const TITLE = 'PHP-Laravel-ecommerce';
+    const GITHUB_LINK = 'https://github.com/majusko/PHP-Laravel-ecommerce';
 
     public function __construct()
     {
@@ -15,7 +15,7 @@ class PagesController extends Controller
 
     public function contact()
     {
-        return view('pages.contact');
+        return view('pages.contact')->with('title', self::TITLE);
     }
 
     public function about()
