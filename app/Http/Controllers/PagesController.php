@@ -22,4 +22,10 @@ class PagesController extends Controller
     {
         return view('pages.about')->with('title', self::TITLE)->with('github_link', self::GITHUB_LINK);
     }
+
+    public function home()
+    {
+        return view('pages.home');
+    }
+
 }
