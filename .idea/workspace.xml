@@ -2,76 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be61afd7-f8dc-406d-8670-9304132ddcdd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/portfolio/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/portfolio/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/portfolio/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/portfolio/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/portfolio/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/portfolio/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/img/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/cbpAnimatedHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/classie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/css/creative.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/creative.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/creative.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/database.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/jquery.fittext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/wow.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/front-image/0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/front-image/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/front-image/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/front-image/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/front-image/4.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/animate.min.css" afterPath="$PROJECT_DIR$/public/css/animate.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/css/creative.css" afterPath="$PROJECT_DIR$/public/css/creative.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/public/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/public/font-awesome/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/public/font-awesome/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/header.jpg" afterPath="$PROJECT_DIR$/public/img/header.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/logo.jpg" afterPath="$PROJECT_DIR$/public/img/logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/portfolio/1.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/portfolio/2.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/portfolio/3.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/portfolio/4.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/portfolio/5.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/img/portfolio/6.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/public/js/cbpAnimatedHeader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/classie.js" afterPath="$PROJECT_DIR$/public/js/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/creative.js" afterPath="$PROJECT_DIR$/public/js/creative.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/public/js/jquery.easing.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery.fittext.js" afterPath="$PROJECT_DIR$/public/js/jquery.fittext.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/jquery.js" afterPath="$PROJECT_DIR$/public/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/js/wow.min.js" afterPath="$PROJECT_DIR$/public/js/wow.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/less/creative.less" afterPath="$PROJECT_DIR$/public/less/creative.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/less/mixins.less" afterPath="$PROJECT_DIR$/public/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/assets/less/variables.less" afterPath="$PROJECT_DIR$/public/less/variables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php-laravel-ecommerce.iml" afterPath="$PROJECT_DIR$/.idea/php-laravel-ecommerce.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php-laravel-ecommerce.iws" />
@@ -107,16 +108,34 @@
       <file leaf-file-name="app.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="446" selection-end="446" vertical-scroll-proportion="-8.125" vertical-offset="30" max-vertical-offset="1905">
+            <state line="34" column="53" selection-start="1733" selection-end="1733" vertical-scroll-proportion="-6.367347" vertical-offset="198" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="16" selection-start="200" selection-end="200" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="2400">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="creative.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/creative.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="161" column="5" selection-start="3094" selection-end="3094" vertical-scroll-proportion="0.26229507" vertical-offset="2191" max-vertical-offset="7245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.28103045" vertical-offset="0" max-vertical-offset="854">
+            <state line="16" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -146,11 +165,13 @@
         <option value="$PROJECT_DIR$/resources/views/pages/contact.blade.php" />
         <option value="$PROJECT_DIR$/config/database.php" />
         <option value="$PROJECT_DIR$/resources/views/css/creative.css" />
-        <option value="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
         <option value="$USER_HOME$/Downloads/startbootstrap-creative-1.0 2.1/index.html" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/menu.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/creative.css" />
       </list>
     </option>
   </component>
@@ -273,6 +294,32 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="david_projekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -303,6 +350,64 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front-image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-laravel-ecommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,11 +476,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views/pages" />
+      <recent name="$PROJECT_DIR$/public/img" />
       <recent name="$PROJECT_DIR$/resources/views" />
+      <recent name="$PROJECT_DIR$/resources/views/pages" />
       <recent name="$PROJECT_DIR$/app/Http/Controllers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/resources/assets" />
       <recent name="$PROJECT_DIR$/resources/views/img" />
       <recent name="$PROJECT_DIR$/resources" />
@@ -444,34 +551,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/queue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/broadcasting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="831">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/cache.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="19.5" vertical-offset="468" max-vertical-offset="1275">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/compile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="831">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/session.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2385">
@@ -542,16 +621,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="446" selection-end="446" vertical-scroll-proportion="-8.125" vertical-offset="30" max-vertical-offset="1905">
+        <state line="16" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+    <entry file="file://$PROJECT_DIR$/resources/david_projekt/0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/david_projekt/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.28103045" vertical-offset="0" max-vertical-offset="854">
+        <state line="34" column="53" selection-start="1733" selection-end="1733" vertical-scroll-proportion="-6.367347" vertical-offset="198" max-vertical-offset="1575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="200" selection-end="200" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="2400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="5" selection-start="3094" selection-end="3094" vertical-scroll-proportion="0.26229507" vertical-offset="2191" max-vertical-offset="7245">
           <folding />
         </state>
       </provider>
